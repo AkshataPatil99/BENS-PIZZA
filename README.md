@@ -23,7 +23,7 @@ Query 1: Order and Sales Insights
 ##
 This illuminates critical sales and order metrics. It offers a comprehensive view of total orders, sales, items sold, average order value, sales by category, top-selling items, orders by hour, sales by hour, and orders by address.
 ##
-![image](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/e4d573d1-df75-4051-a8b1-e3efd6bbedde)
+![image](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/77085658-f43d-4de7-8d44-31d1350c8e6a)
 ##
 Query 2: Ingredient Insights and Cost Analysis
 ##
