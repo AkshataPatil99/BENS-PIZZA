@@ -5,13 +5,22 @@ Overview
 ##
 In the culinary industry, knowing client preferences, controlling inventory, and staffing levels to perfection are essential to a restaurant's success. In order to gather information that informs strategic decision-making, I examine the workings of a hypothetical restaurant called Ben's restaurant in this data analysis case study. I use a visually appealing Tableau Public dashboard to study the complexities of orders, ingredients, pricing, and personnel using SQL.
 ##
-Table Drawing and Data Modelling ##
+Table Drawing and Data Modelling
+##
 I start my project by utilising Quick Database Diagrams to sketch tables. The relationships between orders, items, addresses, recipes, ingredients, inventories, staff, rota, and shifts were all carefully considered when I developed the data model. This helped in minimizing Data Redundancy and efficient data organization.
 ##
-Data Formatting and Table Preparation< br / >
-I used Excel to format the data after sketching to make sure it was accurate and consistent. The carefully chosen tables were then imported into SQL for further examination.< br / >
-Exploratory Data Analysis (EDA) using SQL< br / >
-I started my analysis by delving into the SQL queries that reveal the narrative concealed in the data. These are the main actions and questions that influenced my understanding:< br / >
+![bens](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/4595ff0e-de38-41fa-a5be-a57c21d55dd6)
+
+
+##
+Data Formatting and Table Preparation
+##
+I used Excel to format the data after sketching to make sure it was accurate and consistent. The carefully chosen tables were then imported into SQL for further examination.
+##
+Exploratory Data Analysis (EDA) using SQL
+##
+I started my analysis by delving into the SQL queries that reveal the narrative concealed in the data. These are the main actions and questions that influenced my understanding:
+##
 Dashboard 1: Order and Sales Insights< br / >
 My first dashboard illuminates critical sales and order metrics. It offers a comprehensive view of total orders, sales, items sold, average order value, sales by category, top-selling items, orders by hour, sales by hour, and orders by address.
 Dashboard 2: Ingredient Insights and Cost Analysis
