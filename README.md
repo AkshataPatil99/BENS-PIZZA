@@ -10,8 +10,6 @@ Table Drawing and Data Modelling
 I start my project by utilising Quick Database Diagrams to sketch tables. The relationships between orders, items, addresses, recipes, ingredients, inventories, staff, rota, and shifts were all carefully considered when I developed the data model. This helped in minimizing Data Redundancy and efficient data organization.
 ##
 ![bens](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/4595ff0e-de38-41fa-a5be-a57c21d55dd6)
-
-
 ##
 Data Formatting and Table Preparation
 ##
@@ -21,10 +19,17 @@ Exploratory Data Analysis (EDA) using SQL
 ##
 I started my analysis by delving into the SQL queries that reveal the narrative concealed in the data. These are the main actions and questions that influenced my understanding:
 ##
-Dashboard 1: Order and Sales Insights< br / >
+Dashboard 1: Order and Sales Insights
+##
 My first dashboard illuminates critical sales and order metrics. It offers a comprehensive view of total orders, sales, items sold, average order value, sales by category, top-selling items, orders by hour, sales by hour, and orders by address.
+##
+![bens_orders](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/d2942311-c7d6-402e-a396-7e58f545f8cd)
+##
 Dashboard 2: Ingredient Insights and Cost Analysis
+##
 The second dashboard delves into ingredient-level insights, costs, and inventory management. It breaks down total quantity by ingredients, total ingredient cost, calculated pizza cost, and percentage stock remaining by ingredient.
+##
+
 Dashboard 3: Staffing and Cost Management
 My final dashboard focuses on staffing-related insights, showcasing total staff cost, hours worked, and staff details summary.
 Tableau Public: A Visual Journey
