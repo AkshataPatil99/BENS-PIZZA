@@ -45,13 +45,13 @@ Dashboard 1 — Orders
 ##
 My first Tableau Public dashboard offers a visual representation of order-related insights. It highlights metrics like total orders, total sales, total items, and average order value. The pie chart showcases sales distribution by product, and the bar graph illustrates total sales by product subcategory.The hourly line graph displays the flow of total orders and sales over time. 
 ##
-![image](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/8812385b-95f9-40c2-8bea-4f69f0fd0ae5)
+![bens_orders](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/15139065-492a-4c2e-8c29-13085265e454)
 ##
 Dashboard 2 — Inventory
 ##
 The second Tableau Publi dashboard delves into inventory-related metrics. It visualizes ingredient costs, total quantity, total cost, and the percentage of remaining inventory. Additionally, it presents the cost of each item by calculating the ingredient cost. These visualizations empower the team to monitor inventory health and make informed decisions about ingredient procurement and usage.
 ##
-![bens_staff](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/01bd7c67-f888-4af6-8c61-21fe7447cd75)
+![bens_inv](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/70d75919-1d4c-44ef-a1ac-80a446a89412)
 ##
 Dashboard 3 — Staff
 ##
