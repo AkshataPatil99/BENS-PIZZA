@@ -1,5 +1,5 @@
-# BENS-PIZZA < br / >
-BEN'S PIZZA: DATABASE DESIGN, SQL, DATA VISUALIZATION.< br / >
+# BENS-PIZZA < br/>
+BEN'S PIZZA: DATABASE DESIGN, SQL, DATA VISUALIZATION.< br/>
 Overview< br / >
 In the culinary industry, knowing client preferences, controlling inventory, and staffing levels to perfection are essential to a restaurant's success. In order to gather information that informs strategic decision-making, I examine the workings of a hypothetical restaurant called Ben's restaurant in this data analysis case study. I use a visually appealing Tableau Public dashboard to study the complexities of orders, ingredients, pricing, and personnel using SQL.< br / >
 Table Drawing and Data Modelling< br / >
