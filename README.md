@@ -19,27 +19,47 @@ Exploratory Data Analysis (EDA) using SQL
 ##
 I started my analysis by delving into the SQL queries that reveal the narrative concealed in the data. These are the main actions and questions that influenced my understanding:
 ##
-Dashboard 1: Order and Sales Insights
+Query 1: Order and Sales Insights
 ##
-My first dashboard illuminates critical sales and order metrics. It offers a comprehensive view of total orders, sales, items sold, average order value, sales by category, top-selling items, orders by hour, sales by hour, and orders by address.
+This illuminates critical sales and order metrics. It offers a comprehensive view of total orders, sales, items sold, average order value, sales by category, top-selling items, orders by hour, sales by hour, and orders by address.
 ##
-![bens_orders](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/d2942311-c7d6-402e-a396-7e58f545f8cd)
+![image](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/e4d573d1-df75-4051-a8b1-e3efd6bbedde)
 ##
-Dashboard 2: Ingredient Insights and Cost Analysis
+Query 2: Ingredient Insights and Cost Analysis
 ##
-The second dashboard delves into ingredient-level insights, costs, and inventory management. It breaks down total quantity by ingredients, total ingredient cost, calculated pizza cost, and percentage stock remaining by ingredient.
+The second query delves into ingredient-level insights, costs, and inventory management. It breaks down total quantity by ingredients, total ingredient cost, calculated pizza cost, and percentage stock remaining by ingredient.
 ##
-
-Dashboard 3: Staffing and Cost Management
-My final dashboard focuses on staffing-related insights, showcasing total staff cost, hours worked, and staff details summary.
+![image](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/613b4204-0f93-41f4-954a-41aefa19b9f0)
+##
+Query 3: Staffing and Cost Management
+##
+My final query focuses on staffing-related insights, showcasing total staff cost, hours worked, and staff details summary.
+##
+![image](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/89e6208f-529d-47eb-995e-c99072b540a9)
+##
 Tableau Public: A Visual Journey
+##
 My analysis of Ben’s Pizzeria extended to Tableau Public, where I crafted a dynamic dashboard that presents data in visually engaging ways. While the intricate SQL queries laid the groundwork for my insights, the Tableau Public complements the analysis by providing a holistic view of key metrics.
+##
 Dashboard 1 — Orders
+##
 My first Tableau Public dashboard offers a visual representation of order-related insights. It highlights metrics like total orders, total sales, total items, and average order value. The pie chart showcases sales distribution by product, and the bar graph illustrates total sales by product subcategory.The hourly line graph displays the flow of total orders and sales over time. 
+##
+![image](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/8812385b-95f9-40c2-8bea-4f69f0fd0ae5)
+##
 Dashboard 2 — Inventory
+##
 The second Tableau Publi dashboard delves into inventory-related metrics. It visualizes ingredient costs, total quantity, total cost, and the percentage of remaining inventory. Additionally, it presents the cost of each item by calculating the ingredient cost. These visualizations empower the team to monitor inventory health and make informed decisions about ingredient procurement and usage.
+##
+![bens_staff](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/01bd7c67-f888-4af6-8c61-21fe7447cd75)
+##
 Dashboard 3 — Staff
+##
 The third Tableau Public dashboard provides insights into staffing costs and hours worked. Visualizing staff costs, total hours worked, and other staffing details aids in optimizing workforce management. This visual summary assists in aligning staffing resources with peak hours of operation.
+##
+![bens_staff](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/01bd7c67-f888-4af6-8c61-21fe7447cd75)
+##
 A Comprehensive Method: Analyzing and Visualizing Data
+##
 The combination of Tableau visualizations and SQL analysis results in a thorough method for extracting insights. The narrative of  the data is carefully revealed by the SQL queries, and it is presented in aesthetically pleasing and easily comprehensible formats by the Tableau dashboards. Decision-makers at Ben's Pizzeria are now able to act strategically thanks to this combined approach, which gives them a complete grasp of sales trends, ingredient costs, staffing efficiency, and other factors.
 
