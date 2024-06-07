@@ -37,6 +37,22 @@ My final query focuses on staffing-related insights, showcasing total staff cost
 ##
 ![image](https://github.com/AkshataPatil99/BENS-PIZZA/assets/171495035/89e6208f-529d-47eb-995e-c99072b540a9)
 ##
+SQL code calculates the total hours worked in a shift and the staff cost for that shift. Here’s a breakdown of the calculations and their purposes:
+##
+Calculating hours worked (hours_in_shift):
+##
+TIMEDIFF(sh.end_time, sh.start_time): This function calculates the difference between the shift end time (sh.end_time) and shift start time (sh.start_time).
+##
+TIME_TO_SEC(...): This function converts the time difference to seconds.
+##
+/ 3600: This converts the time in seconds to hours (since 1 hour = 3600 seconds).
+##
+Calculating staff cost (staff_cost):
+##
+The result of the hours worked calculation (TIME_TO_SEC(TIMEDIFF(sh.end_time, sh.start_time)) / 3600).
+##
+Multiplied by the hourly rate (s.hourly_rate).
+##
 Tableau Public: A Visual Journey
 ##
 My analysis of Ben’s Pizzeria extended to Tableau Public, where I crafted a dynamic dashboard that presents data in visually engaging ways. While the intricate SQL queries laid the groundwork for my insights, the Tableau Public complements the analysis by providing a holistic view of key metrics.
